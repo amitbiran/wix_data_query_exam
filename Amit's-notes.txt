@@ -1,0 +1,9 @@
+Sadly I did not manage to finish the task in the time limit.
+The code is almost done, but It does has an issue in the parsing function.
+
+Given a little bit more time I would have done the following:
+
+1)Fix the parsing function and make sure that the tests pass.
+2)break down the parse function to manageable parts either give it its own file or add its logic to the Operators objects.
+3)break down the operators file to multiple files, one per class.
+4)refactor the entire code to be more readable.
